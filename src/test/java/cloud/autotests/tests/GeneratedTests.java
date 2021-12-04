@@ -17,7 +17,7 @@ public class GeneratedTests extends TestBase {
     @DisplayName("Safron Letual Tests")
     void generatedTest() {
         step("Open https://www.letu.ru/", () -> {
-            step("// todo: just add selenium action");
+
         });
     }
 
